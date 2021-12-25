@@ -349,7 +349,7 @@ html, body {
 .search_bar input[type="text"] {
     position:absolute;
     left:2%;
-    top:344.1%;
+    top:344%;
     width:30%;
     background-color:white;
     color: black;
